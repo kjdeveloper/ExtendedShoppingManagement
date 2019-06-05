@@ -1,0 +1,212 @@
+[
+  {
+    "client": {
+      "name": "Kamil",
+      "surname": "Jankowiak",
+      "age": 30,
+      "cash": 6000
+    },
+    "products": [
+      {
+        "name": "zelazko",
+        "category": "ELECTRONICS",
+        "price": 400
+      },
+      {
+        "name": "TV",
+        "category": "ELECTRONICS",
+        "price": 3500
+      },
+      {
+        "name": "dywan",
+        "category": "HOME",
+        "price": 1000
+      },
+      {
+        "name": "kwiat",
+        "category": "GARDEN",
+        "price": 16
+      },
+      {
+        "name": "kwiat",
+        "category": "GARDEN",
+        "price": 16
+      },
+      {
+        "name": "kwiat",
+        "category": "GARDEN",
+        "price": 16
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "Anna",
+      "surname": "Jankowiak",
+      "age": 29,
+      "cash": 8000
+    },
+    "products": [
+      {
+        "name": "obraz",
+        "category": "ART",
+        "price": 300
+      },
+      {
+        "name": "okulary_plywackie",
+        "category": "SPORT",
+        "price": 1190
+      },
+      {
+        "name": "okulary_plywackie",
+        "category": "SPORT",
+        "price": 1190
+      },
+      {
+        "name": "okulary_plywackie",
+        "category": "SPORT",
+        "price": 1190
+      },
+      {
+        "name": "smoczek",
+        "category": "CHILD",
+        "price": 40
+      },
+      {
+        "name": "zelazko",
+        "category": "ELECTRONICS",
+        "price": 400
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "Izabela",
+      "surname": "Kurdej",
+      "age": 38,
+      "cash": 2500
+    },
+    "products": [
+      {
+        "name": "pieluchy",
+        "category": "CHILD",
+        "price": 30
+      },
+      {
+        "name": "krzesla_ogrodowe",
+        "category": "GARDEN",
+        "price": 1600
+      },
+      {
+        "name": "dywan",
+        "category": "HOME",
+        "price": 1000
+      },
+      {
+        "name": "koszulka",
+        "category": "SPORT",
+        "price": 99
+      },
+      {
+        "name": "pedzel",
+        "category": "ART",
+        "price": 8
+      },
+      {
+        "name": "pedzel",
+        "category": "ART",
+        "price": 8
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "Karol",
+      "surname": "Burd",
+      "age": 28,
+      "cash": 2500
+    },
+    "products": [
+      {
+        "name": "piguly",
+        "category": "HEALTH",
+        "price": 50
+      },
+      {
+        "name": "TV",
+        "category": "ELECTRONICS",
+        "price": 3500
+      },
+      {
+        "name": "TV",
+        "category": "ELECTRONICS",
+        "price": 3500
+      },
+      {
+        "name": "dywan",
+        "category": "HOME",
+        "price": 1000
+      },
+      {
+        "name": "kierownica",
+        "category": "AUTOMOTIVE",
+        "price": 200
+      },
+      {
+        "name": "kierownica",
+        "category": "AUTOMOTIVE",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "Wojtek",
+      "surname": "Liniacz",
+      "age": 27,
+      "cash": 2500
+    },
+    "products": [
+      {
+        "name": "buty",
+        "category": "SPORT",
+        "price": 360
+      },
+      {
+        "name": "wyciraczki",
+        "category": "AUTOMOTIVE",
+        "price": 60
+      },
+      {
+        "name": "wyciraczki",
+        "category": "AUTOMOTIVE",
+        "price": 60
+      },
+      {
+        "name": "piguly",
+        "category": "HEALTH",
+        "price": 50
+      },
+      {
+        "name": "koktajl",
+        "category": "HEALTH",
+        "price": 20
+      },
+      {
+        "name": "koktajl",
+        "category": "HEALTH",
+        "price": 20
+      },
+      {
+        "name": "koktajl",
+        "category": "HEALTH",
+        "price": 20
+      },
+      {
+        "name": "koktajl",
+        "category": "HEALTH",
+        "price": 20
+      }
+    ]
+  }
+]
